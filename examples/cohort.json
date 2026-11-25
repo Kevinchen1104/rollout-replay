@@ -1,0 +1,1402 @@
+[
+  {
+    "identifier": "demo-000",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-001",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-002",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-003",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-004",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-005",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-006",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-007",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-008",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-009",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-010",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-011",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-012",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-013",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-014",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-015",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-016",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-017",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-018",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-019",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-020",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-021",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-022",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-023",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-024",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-025",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-026",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-027",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-028",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-029",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-030",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-031",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-032",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-033",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-034",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-035",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-036",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-037",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-038",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-039",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-040",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-041",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-042",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-043",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-044",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-045",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-046",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-047",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-048",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-049",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-050",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-051",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-052",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-053",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-054",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-055",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-056",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-057",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-058",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-059",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-060",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-061",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-062",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-063",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-064",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-065",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-066",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-067",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-068",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-069",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-070",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-071",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-072",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-073",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-074",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-075",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-076",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-077",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-078",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-079",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-080",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-081",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-082",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-083",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-084",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-085",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-086",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-087",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-088",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-089",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-090",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-091",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-092",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-093",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-094",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-095",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-096",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-097",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-098",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-099",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-100",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-101",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-102",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-103",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-104",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-105",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-106",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-107",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-108",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-109",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-110",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-111",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-112",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-113",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-114",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-115",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-116",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-117",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-118",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-119",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-120",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-121",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-122",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-123",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-124",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-125",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-126",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-127",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-128",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-129",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-130",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-131",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-132",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-133",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-134",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-135",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-136",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-137",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-138",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-139",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-140",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-141",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-142",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-143",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-144",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-145",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-146",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-147",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-148",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-149",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-150",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-151",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-152",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-153",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-154",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-155",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-156",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-157",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-158",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-159",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-160",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-161",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-162",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-163",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-164",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-165",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-166",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-167",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-168",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-169",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-170",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-171",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-172",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-173",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-174",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-175",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-176",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-177",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-178",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-179",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-180",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-181",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-182",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-183",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-184",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-185",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-186",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-187",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-188",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-189",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-190",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-191",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-192",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-193",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-194",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-195",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-196",
+    "traits": {
+      "channel": "pilot",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-197",
+    "traits": {
+      "channel": "general",
+      "region": "west"
+    }
+  },
+  {
+    "identifier": "demo-198",
+    "traits": {
+      "channel": "pilot",
+      "region": "east"
+    }
+  },
+  {
+    "identifier": "demo-199",
+    "traits": {
+      "channel": "general",
+      "region": "east"
+    }
+  }
+]

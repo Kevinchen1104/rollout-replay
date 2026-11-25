@@ -1,0 +1,2 @@
+flagsmith==6.6.0
+flagsmith-flag-engine==11.1.2

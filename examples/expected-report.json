@@ -1,0 +1,15 @@
+{
+  "flag": "expedited_checkout",
+  "identities": 200,
+  "enabled_before": 100,
+  "enabled_after": 100,
+  "changed": 100,
+  "unchanged": 100,
+  "changed_percent": 50.0,
+  "transitions": {
+    "off_to_on": 50,
+    "on_to_off": 50
+  },
+  "max_changed_percent": 10,
+  "review": "threshold_exceeded"
+}

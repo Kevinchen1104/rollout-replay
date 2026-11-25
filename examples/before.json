@@ -1,0 +1,53 @@
+{
+  "name": "Synthetic checkout preview",
+  "api_key": "synthetic-environment",
+  "feature_states": [
+    {
+      "enabled": false,
+      "feature": {
+        "id": 19,
+        "name": "expedited_checkout"
+      },
+      "feature_state_value": null,
+      "featurestate_uuid": "00000000-0000-4000-8000-000000000001",
+      "multivariate_feature_state_values": []
+    }
+  ],
+  "identity_overrides": [],
+  "project": {
+    "segments": [
+      {
+        "id": 8,
+        "name": "Early access audience",
+        "rules": [
+          {
+            "type": "ALL",
+            "conditions": [
+              {
+                "operator": "EQUAL",
+                "property_": "channel",
+                "value": "pilot"
+              }
+            ],
+            "rules": []
+          }
+        ],
+        "feature_states": [
+          {
+            "enabled": true,
+            "feature": {
+              "id": 19,
+              "name": "expedited_checkout"
+            },
+            "feature_state_value": null,
+            "featurestate_uuid": "00000000-0000-4000-8000-000000000002",
+            "multivariate_feature_state_values": [],
+            "feature_segment": {
+              "priority": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
